@@ -9,6 +9,7 @@ SRCS = \
 	src/main_print.c \
 	src/ft_put.c \
 	src/calculator_digit.c \
+	src/set_flag.c\
 
 CC = gcc
 
