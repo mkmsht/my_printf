@@ -6,7 +6,7 @@ SRCS = \
 	src/ft_print_str.c \
 	src/ft_printf.c \
 	src/ft_strchr_n.c \
-	src/main_print.c \
+	src/ft_main_print.c \
 	src/ft_put.c \
 	src/calculator_digit.c \
 	src/set_flag.c\
